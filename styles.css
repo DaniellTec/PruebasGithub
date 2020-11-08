@@ -1,0 +1,11 @@
+.containera{
+
+	background-color: rgba(255,255,255,15);
+    background-color: rgba(255,255,255,.15);
+ 	backdrop-filter:blur(10px);
+  	margin-top: 30px;
+  	margin-left: 30px;
+  	margin-right: 30px;
+  	border-radius: 8px;
+
+}
